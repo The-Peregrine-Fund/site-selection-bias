@@ -1,5 +1,6 @@
 # Site Selection Bias
-Appendices and supplementary materials for:
+Appendices and supplementary materials for: 
+
 McClure and Rolek. 2023. Pitfalls arising from site selection bias in population monitoring defy simple heuristics. Methods in Ecology and Evolution.
 
 The file 'Appendix 1.r' includes R code for a stochastic simulation model implemented using the simMHB() function in the IPMBook package (Schaub et al., 2022).
