@@ -1,4 +1,4 @@
-# site-selection-bias
+# Site Selection Bias
 Appendices and supplementary materials for:
 McClure and Rolek. 2023. Pitfalls arising from site selection bias in population monitoring defy simple heuristics. Methods in Ecology and Evolution.
 
